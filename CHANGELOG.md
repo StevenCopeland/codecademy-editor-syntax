@@ -8,3 +8,6 @@
 ## 0.3.0 - Adding more colors
 * Changing colors
 * Adding some more colors to the code
+
+## 0.4.0 - Adding different colors to a function
+* add console.log colors
