@@ -4,3 +4,7 @@
 
 ## 0.2.0 - Adding some colors
 * Adding colors to numbers, strings, and comments
+
+## 0.3.0 - Adding more colors
+* Changing colors
+* Adding some more colors to the code
