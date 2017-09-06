@@ -1,7 +1,7 @@
 {
   "name": "codecademy-editor-syntax",
   "theme": "syntax",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Ever heard of the codecademy editor? Here is a theme that looks like that.",
   "keywords": [
     "syntax",
