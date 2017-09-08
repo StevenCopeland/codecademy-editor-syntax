@@ -5,7 +5,8 @@
   "description": "Ever heard of the codecademy editor? Here is a theme that looks like that.",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "codecademy"
   ],
   "repository": "https://github.com/StevenCopeland/codecademy-editor-syntax",
   "license": "MIT",
